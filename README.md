@@ -5,7 +5,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-array, if else, function, html, css, parseInt, indexOf
+array, if else, function, html, css, parseInt, indexOf, var, let, const, num, str, boolean
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detalhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
